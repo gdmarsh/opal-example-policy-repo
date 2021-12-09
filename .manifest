@@ -1,3 +1,5 @@
+stg/policy.rego
+dev/policy.rego
 utils.rego
 rbac.rego
 doesnotexist.rego
