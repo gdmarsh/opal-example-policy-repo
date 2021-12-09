@@ -4,6 +4,6 @@ allow {
     "stg" == "stg"
 }
 
-environment["stg_loaded"] {
-    true
+environment["stg_loaded"] = x {
+    x := true
 }

@@ -4,6 +4,6 @@ allow {
     "dev" == "dev"
 }
 
-environment["dev_loaded"] {
-    true
+environment["dev_loaded"] = x {
+    x := true
 }
