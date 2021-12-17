@@ -1,5 +1,5 @@
 package topic3.bug
 
 allow {
-    false
+    true
 }
